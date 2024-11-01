@@ -84,7 +84,7 @@ export const roadmap = [{
         title: "Prompt Template",
         text: "Initialize and set various common character prompts to help you build AI-bot faster. Covering the following fields: intelligent customer service, IP characters, and painting prompts of multiple genres.",
         status: "done",
-        imageUrl: "../src/assets/roadmap/image-1.svg",
+        imageUrl: "/src/assets/roadmap/image-1.svg",
         colorful: true,
     },
     {
