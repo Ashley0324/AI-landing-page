@@ -38,7 +38,7 @@ const Hero = () => {
           </Button>
           <div className="absolute -top-[80%] left-1/2 w-[300%] -translate-x-1/2 md:-top-[200%] md:w-[200%] lg:-top-[200%]">
             <img
-              src="/src/assets/hero/background.png"
+              src="../src/assets/hero/background.png"
               className="w-full"
               width={2440}
               height={1600}
